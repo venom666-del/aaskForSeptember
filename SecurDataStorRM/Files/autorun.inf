@@ -1,0 +1,3 @@
+[autorun]
+OPEN=SecurDataStor\CopyFile.exe true
+ICON=SecurDataStor\SecurDataStor.ico

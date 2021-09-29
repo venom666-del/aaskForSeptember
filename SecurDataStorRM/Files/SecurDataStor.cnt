@@ -1,0 +1,161 @@
+:Base SECURDATASTOR.hlp>main
+:Title CruzerLock Help System
+1 Welcome
+2 Welcome=IDH_welcome
+2 Copyright/Trademarks=IDH_copyright
+2 CruzerLock 2.1 Product Line Feature Sets=IDH_securdatastor_product_line_features
+2 Converting or Repairing Your Archive=IDH_upgrading_or_repairing_your_archive
+1 Using the Product
+2 User Interface
+3 User Interface=IDH_user_interface
+3 CruzerLock 2.1 Main Window=IDH_securdatastor_main_window
+2 Archive Set Up and Creation
+3 Creating a CruzerLock 2.1 Archive=IDH_control_panel
+3 Setting up Your Flash Drive Archive=IDH_setting_up_your_flash_drive_archive
+3 Adding a Hard Drive Archive=IDH_saving_a_hard_drive_archive 
+3 Adding a Media Archive=IDH_adding_a_media_archive
+2 Archive Accessing
+3 Accessing the Encrypted Archive=IDH_kaccess_the_encrypted_archive
+3 Entering Login Information=IDH_entering_login_information
+3 Recovering Your User Name and Password=IDH_recovering_your_password
+3 Changing a Password=IDH_changing_a_password
+3 Changing Your Password Recovery Information=IDH_changing_your_password_hint
+3 Accessing All Non-Flash Archives
+4 General Archive Accessing Methods=IDH_general_archive_accessing_methods
+4 Accessing Archives from the Welcome to CruzerLock 2.1 Dialog Box=IDH_accessing_archives_from_the_welcome
+4 Opening Archives from the File Menu=IDH_opening_archives_from_the_file_menu
+4 Opening Non-Flash Drive Archives from Windows Explorer=IDH_opening_non_flash_drive_archives_from
+3 Accessing Specific Archives
+3 Accessing Your CruzerLock 2.1 Free Flash Drive Archive=IDH_accessing_your_cruzerlock_2_free_flash
+3 Accessing Media Archives=IDH_accessing_media_archives
+2 Basic Operations
+3 Encryption
+4 Basic Encryption
+5 Encrypting Files=IDH_encrypting_files
+5 The Encryption Operation=IDH_completing_the_encryption_operation
+4 Advanced Encryption Options
+5 Using Advanced Encryption Options=IDH_using_advanced_encryption_options
+5 Adding Customized Folders while Encrypting=IDH_adding_customized_folders_while_encrypting
+5 Renaming Archive Files and Folders while Encrypting=IDH_renaming_archive_files_and_folders
+5 Deleting Archive Files and Folders while Encrypting=IDH_deleting_archive_files_and_folders
+5 Moving Archive Files and Folders while Encrypting=IDH_moving_archive_files_and_folders_while
+5 Modifying Archive Preferences while Encrypting=IDH_modifying_archive_preferences_while
+5 Immediately Sharing Archive after Encrypting=IDH_immediately_sharing_archive_after
+3 Decryption
+4 Decrypting Files=IDH_decrypting_files
+4 The Decryption Operation=IDH_starting_the_decryption_operation
+4 Other Decryption Operation Options=IDH_other_decryption_operation_options
+3 Viewing Archive Contents
+4 Viewing Archive Contents=IDH_view_archive_contents
+4 The Archive Contents Viewing Operation=IDH_starting_the_archive_contents_viewing
+3 Opening Files
+4 Opening Files=IDH_read_only_viewing
+4 Using the Advanced File Opening Options=IDH_using_the_advanced_file_opening_options
+4 Opening the File From the Application=IDH_opening_the_file_from_the_application
+4 Opening a Group of Associated Files=IDH_opening_an_associated_group_of_files
+4 Open Files for Update=IDH_open_files_for_update
+3 Deleting Files
+4 Deleting Files=IDH_deleting_files
+4 Marking Contents for Deletion=IDH_marking_files_for_deletion
+4 Purging Contents=IDH_purging_archive_files
+4 Purging the Archive while Deleting Selected Contents=IDH_immediately_purge_archive_files
+4 Purging the Archive as a Standalone Operation=IDH_purging_files_previously_marked_for
+4 Emptying the Archive=IDH_emptying_the_archive
+3 Reorganizing Archive Contents
+4 Reorganizing Archive Contents=IDH_reorganizing_archive_contents
+3 Saving Archives
+4 Saving Archives=IDH_copying_the_archive_file
+2 Access Control
+2 Using Access Control=IDH_access_control
+2 Access Control Rules=IDH_access_control_rules
+3 Permissions
+4 Permission Types=IDH_permission_types
+4 Administrative Permissions=IDH_administrative_access_control_permissions
+4 Contents Permissions=IDH_file_and_folder_permissions
+3 Administration
+4 Administrative Access Control=IDH_administrative_access_control
+4 Adding Users
+5 Adding a User=IDH_adding_a_user
+5 Add a User with Pre-defined Permissions=IDH_add_a_user_with_pre_defined_permissions
+4 Importing Users
+5 Importing Users=IDH_import_users
+4 Modifying Users
+5 Modifying a User=IDH_modifying_a_user
+4 Other User Actions
+5 Removing a User=IDH_removing_a_user
+5 Set User Login Action=IDH_set_user_login_action
+3 Overall Archive
+4 Archive Access Control=IDH_archive_access_control
+4 Modifying Archive Access Control Permissions=IDH_modifying_archive_access_control_permissions
+4 Restricted Read-only Viewing=IDH_restricted_read_only_viewing
+4 PDF File Type Information=IDH_files_types_for_restricted_read_only
+4 Viewing Restricted Read-only Files=IDH_viewing_restricted_read_only_files
+3 Archive Contents
+4 Archive Contents Access Control=IDH_archive_contents_access_control
+4 Modifying Archive Contents Access Control Permissions=IDH_modifying_archive_contents_access
+4 Starting the Modify Folder and File Permissions Operation=IDH_starting_the_modify_folder_and_file
+4 Completing the Modify Folder and File Permissions Operation=IDH_completing_the_modify_folder_and_file
+4 Viewing Permissions=IDH_viewing_permissions
+2 Archive Sharing
+3 Sharing Archives=IDH_sharing_archives
+3 Email Sharing
+4 Email Sharing=IDH_email_sharing
+4 Creating and Sending the Email Archive=IDH_create_and_send_the_email
+4 Accessing the Email Archive=IDH_access_the_emailed_archive
+3 Hard Drive Sharing
+4 Local and Networked Drive Sharing=IDH_local_or_networked_drive_sharing
+3 Media Sharing
+4 Removable Storage Media Sharing=IDH_removable_storage_media_sharing
+3 Web Content Sharing
+4 Web CD Sharing=IDH_web_cd_sharing
+4 Creating the Web CD=IDH_create_the_web_cd
+4 Accessing the Web CD Content=IDH_access_the_web_cd
+4 Troubleshooting your SecurWebCD=IDH_troubleshooting_your_securdataweb
+2 Auditing
+3 Auditing=IDH_auditing
+3 Auditing Archive Sharing=IDH_auditing_archive_sharing
+3 Auditing User Information=IDH_auditing_user_information
+3 Auditing File and Folder History=IDH_auditing_file_history
+2 SecurAdmin Operations
+3 SecurAdmin=IDH_securadmin
+3 Create New Resource File=IDH_create_new_resource_file
+3 Open a Resource File=IDH_open_a_resource_file
+3 Create Shared User=IDH_create_shared_user
+3 Create User Templates=IDH_create_user_templates
+3 Import Users to Resource File from Email System=IDH_import_users_to_resource_file_from
+2 Preferences
+3 Preferences=IDH_preferences
+3 General Tab Preferences
+4 General Preferences=IDH_general_preferences
+4 Activity Log Preference=IDH_activity_log_preference
+4 Desktop Shortcut Preference=IDH_desktop_shortcut_preference
+4 Wipe Files Preference=IDH_wipe_files_preference
+4 Advanced File Opening Preference=IDH_advanced_file_opening_preference
+4 Encryption Algorithm Preference=IDH_encryption_algorithm_preference
+3 Other Preferences
+4 Compression Preference=IDH_compression_preference
+4 Shared Resources Preference=IDH_shared_resources_preference
+4 Email Return Address Preference=IDH_email_return_address_preference
+4 Expiration Message Preference=IDH_expiration_message_preference
+4 CD and DVD Formatting Preference=IDH_cd_and_dvd_formatting_preference
+1 Activity Log=IDH_activity_log
+1 Checking Product Version Information=IDH_checking_product_version_information
+1 Exiting CruzerLock 2.1=IDH_exiting_tsecurdatastor
+1 Reference
+2 Administrator User=IDH_administrator_user
+2 Encrypted Archive=IDH_archive
+2 File Compression=IDH_file_compression
+2 Login Information=IDH_login_information
+2 Password=IDH_pass_phrase
+2 User Name=IDH_user_name
+2 Welcome to CruzerLock 2.1 Dialog Box=IDH_welcome_to_cruzerlock_2_dialog_box
+2 Windows Explorer=IDH_windows_explorer
+1 Purchase Information
+2 Upgrading Your Product=IDH_upgrading_your_product
+2 Adding More Media=IDH_adding_more_media
+1 More Help
+2 Troubleshooting=IDH_troubleshooting
+2 QuickStart Guide=IDH_quickstart_guide
+2 Online Tutorials=IDH_online_tutorials
+2 Technical Support=IDH_technical_support
+2 Contact Information=IDH_contact_information
